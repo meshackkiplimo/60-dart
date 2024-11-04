@@ -9,9 +9,9 @@
 //   print("perimeter is ${length + width}");
 
 
-void perim(int l,int w) =>
-  print("Perimeter is ${l + w}");
+void sum(int l,int w) =>
+  print("sum is ${l + w}");
 
 void main(){
-  perim(12, 12);
+  sum(12, 12);
 }
